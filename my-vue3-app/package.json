@@ -1,0 +1,22 @@
+{
+  "name": "my-vue3-app",
+  "version": "1.0.0",
+  "description": "A Vue 3 application with a login page",
+  "main": "src/main.ts",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "typescript": "^4.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
